@@ -1,0 +1,110 @@
+[
+  {
+    "text": "Dil neden kültürel mirasın temel unsurlarından biridir?",
+    "choices": [
+      "Kültürü nesilden nesile aktardığı için",
+      "İnsanları eğlendirdiği için",
+      "Sadece yazı dili olduğu için",
+      "Değişmediği için"
+    ]
+  },
+  {
+    "text": "Aşağıdakilerden hangisi soyut (manevi) kültürel miras örneğidir?",
+    "choices": [
+      "Atasözleri",
+      "Tarihi köprü",
+      "El dokuması halı",
+      "Mimari yapı"
+    ]
+  },
+  {
+    "text": "Masallar ve destanlar kültürü en çok hangi yolla aktarır?",
+    "choices": [
+      "Dil yoluyla",
+      "Resimle",
+      "Müzikle",
+      "Mimariyle"
+    ]
+  },
+  {
+    "text": "“Damlaya damlaya göl olur” atasözü ne anlatır?",
+    "choices": [
+      "Küçük birikimlerin önemini",
+      "Sabırsızlığı",
+      "Şansı",
+      "Hızı"
+    ]
+  },
+  {
+    "text": "“Gönül almak” deyimi hangi anlama gelir?",
+    "choices": [
+      "Birini mutlu etmek, kırgınlığı gidermek",
+      "Kalp hastalığına iyi gelmek",
+      "Sevgili olmak",
+      "Hediye almak"
+    ]
+  },
+  {
+    "text": "Atasözleri için hangisi doğrudur?",
+    "choices": [
+      "Kısa ve öğretici sözlerdir",
+      "Sadece edebi metinlerde kullanılır",
+      "Her zaman mecaz içermez",
+      "Yazılı kültürle ortaya çıkmıştır"
+    ]
+  },
+  {
+    "text": "“Gönül” kelimesi Türk kültüründe neyi ifade eder?",
+    "choices": [
+      "Ruh ve duyguları",
+      "Sadece kalbi",
+      "Beyni",
+      "Bedeni"
+    ]
+  },
+  {
+    "text": "Aşağıdakilerden hangisi Türkçenin eski dönemlerinden günümüze ulaşmış bir kelimedir?",
+    "choices": [
+      "Oba",
+      "Telefon",
+      "İnternet",
+      "Teknoloji"
+    ]
+  },
+  {
+    "text": "Eski Türkçede kullanılan kelimelerin günümüze ulaşması neyi gösterir?",
+    "choices": [
+      "Kültürel sürekliliği",
+      "Dilin değişmediğini",
+      "Dilin zayıf olduğunu",
+      "Sadece yazılı dili"
+    ]
+  },
+  {
+    "text": "Türkçenin bilinen en eski yazılı belgeleri hangileridir?",
+    "choices": [
+      "Orhun Yazıtları",
+      "Divan edebiyatı eserleri",
+      "Tanzimat romanları",
+      "Halk hikâyeleri"
+    ]
+  },
+  {
+    "text": "Divânu Lügati’t-Türk’ün yazılma amacı nedir?",
+    "choices": [
+      "Türkçeyi öğretmek ve tanıtmak",
+      "Türk tarihini anlatmak",
+      "Şiir yazmak",
+      "Masal derlemek"
+    ]
+  },
+  {
+    "text": "Türkçenin kültürel mirasa katkısı için hangisi söylenemez?",
+    "choices": [
+      "Kültürü ortadan kaldırır",
+      "Değerleri yansıtır",
+      "Kimlik oluşturur",
+      "Kültürü aktarır"
+    ]
+  }
+]
